@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @tripluyi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m luyi.
 
-<!---
-tripluyi/tripluyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently, I work at Trip.com.
+
+I am currently writing a document about the application of AI in frontend development. Questions and reviews are encouraged and welcomed.
+
+Please visit the document [here](https://ctrip.wiki/).
+
